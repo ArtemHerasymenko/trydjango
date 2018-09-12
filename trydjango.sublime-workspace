@@ -1,0 +1,589 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new_",
+				"new_text"
+			],
+			[
+				"batch",
+				"batch_size"
+			],
+			[
+				"p",
+				"pool5"
+			],
+			[
+				"tra",
+				"train_data_sounds"
+			],
+			[
+				"train",
+				"train_data_images"
+			],
+			[
+				"e",
+				"extenion"
+			],
+			[
+				"data",
+				"DATA_FROM_HOST"
+			],
+			[
+				"sa",
+				"samples"
+			],
+			[
+				"pl",
+				"plot"
+			],
+			[
+				"count",
+				"count_work"
+			],
+			[
+				"sta",
+				"start_row"
+			],
+			[
+				"pa",
+				"rows_parsed"
+			],
+			[
+				"you",
+				"youtube_names_for_ingore"
+			],
+			[
+				"eat",
+				"eat_file"
+			],
+			[
+				"cou",
+				"count_eat"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"path",
+				"path_to_wav"
+			],
+			[
+				"csv",
+				"csvfile"
+			],
+			[
+				"name",
+				"nameInDataset"
+			],
+			[
+				"download",
+				"downloadVideo"
+			],
+			[
+				"image",
+				"image_name"
+			],
+			[
+				"trai",
+				"train_data"
+			],
+			[
+				"train_data",
+				"train_data_sounds"
+			],
+			[
+				"train_da",
+				"train_data_sounds"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"sort",
+				"sorted_predictions_after_mapping"
+			],
+			[
+				"pred",
+				"predictions"
+			],
+			[
+				"pre",
+				"predictions"
+			],
+			[
+				"mapp",
+				"mapping_from_numbers_to_activities"
+			],
+			[
+				"ima",
+				"imagesToFeatures"
+			],
+			[
+				"eval",
+				"eval_labels"
+			],
+			[
+				"test",
+				"test_data"
+			],
+			[
+				"act",
+				"activity_number_map_test"
+			],
+			[
+				"train_",
+				"train_labels"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"mess",
+				"message_sha1"
+			],
+			[
+				"dec",
+				"decrypt"
+			],
+			[
+				"enc",
+				"encoded_message"
+			],
+			[
+				"end",
+				"encoded_message"
+			],
+			[
+				"re",
+				"receiveMessage"
+			],
+			[
+				"get",
+				"getPublicKey"
+			],
+			[
+				"des",
+				"des_password"
+			],
+			[
+				"des_pass",
+				"des_password_rsa"
+			],
+			[
+				"des_",
+				"des_password"
+			],
+			[
+				"des_pa",
+				"des_password_rsa"
+			],
+			[
+				"rev",
+				"receiver_public_key"
+			],
+			[
+				"message",
+				"message_sha1"
+			],
+			[
+				"geenrate",
+				"generateKeys"
+			],
+			[
+				"hidden",
+				"hidden_image"
+			],
+			[
+				"send",
+				"sendChar"
+			],
+			[
+				"recv",
+				"recieve"
+			],
+			[
+				"serve",
+				"serveraddr"
+			],
+			[
+				"server",
+				"serverMain"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/artem/workspace/github/python-getting-started/hello/views.py",
+			"settings":
+			{
+				"buffer_size": 434,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/artem/workspace/github/python-getting-started/hello/models.py",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/parser.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/app.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/.gitignore",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/npArrayInFile/trySaveAndRestore.py",
+		"/home/artem/workspace/github/python-getting-started/hello/views.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/load_sound_dataset.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/audioLib.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/train_model.py",
+		"/home/artem/workspace/github/python-getting-started/Pipfile",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/convert_audio_to_images.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/activityRecognitionLib.py",
+		"/home/artem/workspace/qt/thread/main.cpp",
+		"/home/artem/workspace/github/testDeployPythonHeroku/python-getting-started/hello/models.py",
+		"/home/artem/workspace/github/testDeployPythonHeroku/python-getting-started/Procfile",
+		"/home/artem/workspace/github/testDeployPythonHeroku/python-getting-started/Pipfile",
+		"/home/artem/workspace/github/testDeployPythonHeroku/python-getting-started/hello/__init__.py",
+		"/home/artem/Downloads/001231.cpp",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/image_parser/google-images-download/downloads/rename_files.py",
+		"/home/artem/delete_me/parse.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/0_999_train_data_images.npy",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/npArrayInFile/array.npy",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/image_parser/google-images-download/downloads/__DATASET__/rename_files.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/FullyConnectedModel/FullyConnectedModel.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/youtube_names_for_ingore.txt",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/show_labels_list.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/put_labels_into_map.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr2.0/HOW_TO_LAUNCH_IMAGE.txt",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/HOW_TO_LAUNCH_IMAGE.txt",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/pythyr.wsgi",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/tensorflow_vgg_lib/vgg19.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/docker/dockerfile",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/app.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/convert_audio_to_images.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/activityRecognitionLib.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/audioLib.py",
+		"/home/artem/workspace/8_semester_kpi/diploma (copy)/activityRecognitionApp/AWS/pythyr/audioLib.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/test.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/put_comas.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/counts.txt",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/sounds_parser/start_row.txt",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/tests.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/try_send_request_with_file.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/FullyConnectedModel/FullyConnectedModel.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/ActivityRecognitionAppFlask.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/code/tensorflow_vgg_lib/vgg19.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/code/tests.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/code/ActivityRecognitionAppFlask.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/code/activityRecognitionLib.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/code/tensorflow_vgg_lib/test_vgg19.py",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/code/tensorflow_vgg_lib/vgg19.npy",
+		"/home/artem/workspace/8_semester_kpi/diploma/activityRecognitionApp/AWS/pythyr/code/ActivityREcognitionAppFlask.py",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/activities_recognizer.py",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/FullyConnectedModel/FullyConnectedModel.py",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/fully_connected_nn.py",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/tests/tests.py",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/tensorflow_vgg/test_vgg16.py",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/tensorflow-vgg/feature_extractor_vgg.py",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/tensorflow-vgg/test_vgg16.py",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/tensorflow-vgg/vgg16.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1/make_graphics_for_analizer.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab4/main.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1-vog/analize_complexity.cpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1-vog/sha1.cpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1-983/SHA1/sha1.hpp",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/tensorflow-vgg/vgg19.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1/analize_complexity.cpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha_openssl/openssl_sha1.cpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha_openssl/openssl/demos/bio/Makefile",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha_openssl/openssl/demos/evp/Makefile",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1-983/SHA1/tests.cpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1-983/SHA1/analizer.cpp",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/tensorflow-vgg/vgg19.npy",
+		"/home/artem/workspace/8_semester_kpi/kursach/code/tensorflow-vgg/utils.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1/analize_method1_results.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1/Makefile",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1/sha1.cpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1/sha1.hpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/rgr/code/sha1/test_sha1.cpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab5/lsb.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab5/penguin.bmp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab3/rsa.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab2/DES code/pydes/main.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/code/build-vigener-Desktop_Qt_5_7_0_GCC_64bit-Debug/input_text.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/code/build-vigener-Desktop_Qt_5_7_0_GCC_64bit-Debug/ciphered.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/code/build-vigener-Desktop_Qt_5_7_0_GCC_64bit-Debug/pure_text.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/code/build-vigener-Desktop_Qt_5_7_0_GCC_64bit-Debug/clear_text.py",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/code/build-vigener-Desktop_Qt_5_7_0_GCC_64bit-Debug/bebig_atack_result.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/code/build-vigener-Desktop_Qt_5_7_0_GCC_64bit-Debug/bebig_atack_result",
+		"/home/artem/Desktop/main.cpp",
+		"/home/artem/Documents/qt/build-test-Desktop_Qt_5_7_0_GCC_64bit-Debug/Makefile",
+		"/home/artem/Documents/qt/build-test-Desktop_Qt_5_7_0_GCC_64bit-Debug/prime.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/crosspltform_programming/labs_1-4_crossplatform_programing/mnist-master/include/mnist/mnist_reader.hpp",
+		"/home/artem/workspace/8_semester_kpi/labs/crosspltform_programming/labs_1-4_crossplatform_programing/mnist-master/example/main.cpp",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/input_name.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/clean_text.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/input_text.txt",
+		"/home/artem/workspace/8_semester_kpi/labs/info_protect_techno/lab1/clear_text.py",
+		"/media/artem/d388e707-ff82-4bd4-8948-735a8dc1c558/artem/workspace/labs_6_semestr/Курсач/30/30_MPI_Implicit/main",
+		"/media/artem/d388e707-ff82-4bd4-8948-735a8dc1c558/artem/workspace/labs_6_semestr/OS/2.1/os_3/main.cpp",
+		"/media/artem/d388e707-ff82-4bd4-8948-735a8dc1c558/artem/workspace/labs_6_semestr/Курсач/30/30_MPI_Implicit/main.cpp",
+		"/media/artem/d388e707-ff82-4bd4-8948-735a8dc1c558/artem/workspace/labs_6_semestr/OS/laba2/laba2/main.cpp",
+		"/media/artem/d388e707-ff82-4bd4-8948-735a8dc1c558/artem/workspace/labs_6_semestr/OS/laba1/laba1/main.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_Graphic/main3_1.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_Graphic/main2.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/UDP/server.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/UDP/client.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/TCP/SimpleNetwork/example-server/server.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/TCP/SimpleNetwork/example-client/client.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/TCP/SimpleNetwork/src/TCPClient.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/TCP/SimpleNetwork/src/TCPServer.cpp",
+		"/home/artem/Downloads/Telegram Desktop/main2.cpp",
+		"/media/artem/d388e707-ff82-4bd4-8948-735a8dc1c558/artem/workspace/7_semestr/Computer Graphics/laba1/main.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/SimpleNetwork/example-client/client.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/SimpleNetwork/example-server/Makefile",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/SimpleNetwork/src/TCPServer.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/SimpleNetwork/src/TCPServer.h",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/SimpleNetwork/src/TCPClient.cpp",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/SimpleNetwork/src/TCPClient.h",
+		"/home/artem/Documents/education/kpi/7_semester/Computer_networks/laba1(cli-ser)/SimpleNetwork/example-server/server.cpp",
+		"/home/artem/Documents/sublime/dfas"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FOLDER_WITH_CODE",
+			"DATA_FROM_HOST",
+			"A",
+			"DATA_FROM_HOST",
+			"dill",
+			"imagesTo",
+			"dataToFeatures",
+			"T",
+			"dost_cla",
+			"train_labels",
+			"labels",
+			"path",
+			"get_s",
+			"read_dataset_direct",
+			"read_dataset",
+			"ChangeCamera",
+			"position_delta",
+			"GLfloat",
+			"dfass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/artem/workspace/github/python-getting-started/hello/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/artem/workspace/github/python-getting-started/hello/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 131.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
