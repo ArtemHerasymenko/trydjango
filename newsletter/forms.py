@@ -12,3 +12,8 @@ class SignUpForm(forms.ModelForm):
 		if not 'edu' in email:
 			raise forms.ValidationError("Please use .EDU email")
 		return email
+
+class ContactForm(forms.Form):
+	email = forms.EmailField()
+	full_name = forms.CharField()
+	message = forms.CharField()
