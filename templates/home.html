@@ -1,1 +1,8 @@
-<h1>Hallo</h1>
+<h1>Hallo {{name}}</h1>
+<h1>TItle == {{title}}</h1>
+
+<form method = "POST", action = "">
+	{% csrf_token %}
+	{{form.as_p}}
+	<input type="Submit" name="Sign UP">
+</form>
