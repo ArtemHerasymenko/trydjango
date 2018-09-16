@@ -1,4 +1,6 @@
 from django.shortcuts import render
+from django.core.mail import send_mail
+from django.conf import settings
 from .forms import SignUpForm, ContactForm
 
 # Create your views here.
@@ -35,13 +37,23 @@ def home(request):
 	
 
 
-	return render(request, "home.html", context)
+	return render(request, "base.html", context)
 
 def contact(request):
 	form = ContactForm(request.POST or None)
 
+	my_email = settings.EMAIL_HOST_USER
+
 	if form.is_valid():
-		print("Form body = ", str(form.cleaned_data))
+		email_to_send = form.cleaned_data.get('email')
+		print("Sending email to %s" %(email_to_send))
+		send_mail(
+			'My Subject',
+			'MEssgae from trydjango',
+			my_email,
+			[my_email],
+			fail_silently=False,
+			)
 
 	context = {
 		"form" : form

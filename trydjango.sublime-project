@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/artem/workspace/python_projects/files_somewhere_outside_project"
 		}
 	]
 }
