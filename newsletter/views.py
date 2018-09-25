@@ -37,7 +37,9 @@ def home(request):
 	
 
 
-	return render(request, "base.html", context)
+	return render(request, "baseDerived.html", context)
+
+	# return render(request, "home.html", context)
 
 def contact(request):
 	form = ContactForm(request.POST or None)
