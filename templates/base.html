@@ -20,8 +20,11 @@
 
     <style>
     {% block style%}
-    
-    {% endblock%}
+    .text-align-center{
+            text-align: center;
+        
+    }  
+{% endblock%}
     </style>
 
   </head>
@@ -40,55 +43,9 @@
 
    {% endblock %}
 
+   {% block content%}
 
-    <main role="main" class="container">
-      
-      <div class="jumbotron">
-        <div class="row">
-          <div class = "col-md-6">
-          
-            <h1>Navbar example</h1>
-            <p class="lead">This example is a quick exercise to illustrate how fixed to top navbar works. As you scroll, it will remain fixed to the top of your browser's viewport.</p>
-            <a class="btn btn-lg btn-primary" href = "" role="button">SIgn up &raquo;</a>
-          </div>
-
-          <div class = "col-md-3 pull-right" style = "background-color:black;height=300px;">
-
-          </div>
-        </div>
-      </div>
-
-      <div  class="row">
-        <div class = "col-md-12" style="background-color:purple;">
-
-          <div class = "col-md-3 float-right" style="background-color:yellow;">
-            <form method = "POST", action = "">
-              {% csrf_token %}
-              {{form|crispy}}
-              <input class = "btn btn-primary" type="Submit" name = "Sign UP">
-            </form>
-          </div>
-
-          <div class = "col-md-3 float-right" style="background-color:green;">
-            <p class = 'lead'> AAAAAAAAAAa </p>
-          </div>
-         
-
-          <div class = "col-md-3 float-right" style="background-color:blue;">
-            <p class = 'lead text-align-center'> bbbbbbbbbb </p>
-          </div>
-
-
-          <div class = "col-md-3 float-right" style="background-color:red;">
-            <p class = 'lead'> cccccccccc  </p>
-          </div>
-
-
-
-        </div>
-      </div>
-
-    </main>
+   {% endblock %}
 
       
 

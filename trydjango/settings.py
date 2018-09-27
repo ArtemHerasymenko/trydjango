@@ -36,7 +36,11 @@ EMAIL_HOST_PASSWORD = 'secret2314.1'
 # Application definition
 
 INSTALLED_APPS = (
+
+    'django.contrib.sites',
+    'registration',
     'django.contrib.admin',
+    
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -44,7 +48,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
 
     'crispy_forms',
-
+    
     'newsletter'
 )
 
@@ -120,4 +124,10 @@ STATICFILES_DIRS = [
 MEDIA_URL = "/media/"
 MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "files_somewhere_outside_project", "media_files_root") 
 
+#crispy
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
+
+#registarion-redux
+ACCOUNT_ACTIVATION_DAYS = 7
+
+SITE_ID=1

@@ -43,7 +43,8 @@ def home(request):
 
 def contact(request):
 	form = ContactForm(request.POST or None)
-
+	title_align_center = False
+	title = "MYTITLE"
 	my_email = settings.EMAIL_HOST_USER
 
 	if form.is_valid():
@@ -58,7 +59,9 @@ def contact(request):
 			)
 
 	context = {
-		"form" : form
+		"form" : form,
+		"title" : title,
+		"title_align_center" : title_align_center,
 	}
 
 	return render(request, "form.html", context)
