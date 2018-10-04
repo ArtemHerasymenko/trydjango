@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content%}
+	From about
+	{% if queryset %}
+	<table class = "table">
+		<tbody>
+			{% for item in queryset%}
+				<tr>
+					<td>{{item}}</td> <td>{{item.full_name}}</td> <td>{{item.timestamp}}</td>		
+				</tr>
+			{% endfor %}
+		</tbody>
+		
+	</table>
+	{% endif %}
+	
+{% endblock %}
