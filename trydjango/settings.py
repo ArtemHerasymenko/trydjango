@@ -35,6 +35,7 @@ EMAIL_HOST_PASSWORD = 'secret2314.1'
 
 # Application definition
 
+
 INSTALLED_APPS = (
 
     'django.contrib.sites',
