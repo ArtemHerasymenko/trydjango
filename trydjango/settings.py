@@ -129,5 +129,5 @@ CRISPY_TEMPLATE_PACK = 'bootstrap3'
 
 #registarion-redux
 ACCOUNT_ACTIVATION_DAYS = 7
-
 SITE_ID=1
+LOGIN_REDIRECT_URL = "/"
