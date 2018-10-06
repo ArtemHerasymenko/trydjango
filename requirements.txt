@@ -1,0 +1,6 @@
+Django==1.8
+django-crispy-forms==1.7.2
+django-registration-redux==1.8
+pytz==2018.5
+Gunicorn
+whitenoise
