@@ -7,9 +7,9 @@ django = "1.8"
 gunicorn = "*"
 django-heroku = "*"
 requests = "*"
-django-crispy-forms==1.7.2
-django-registration-redux==1.8
-pytz==2018.5
+django-crispy-forms=="1.7.2"
+django-registration-redux=="1.8"
+pytz=="2018.5"
 
 [requires]
 python_version = "3.6"
