@@ -121,17 +121,17 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
-# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles') 
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles') 
 
-# STATIC_URL = '/static/'
+STATIC_URL = '/static/'
 
-# STATICFILES_DIRS = [
-#     os.path.join(BASE_DIR, "static_files_inside_project"),
-#     # '/var/www/static/',
-# ]
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "static_files_inside_project"),
+    # '/var/www/static/',
+]
 
-# MEDIA_URL = "/media/"
-# MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "files_somewhere_outside_project", "media_files_root") 
+MEDIA_URL = "/media/"
+MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "files_somewhere_outside_project", "media_files_root") 
 
 #crispy
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
