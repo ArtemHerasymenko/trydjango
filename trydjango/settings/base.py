@@ -88,12 +88,19 @@ WSGI_APPLICATION = 'trydjango.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
 
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+
+# Parse database configuration from $DATABASE_URL
+import dj_database_url
+...
+db_from_env = dj_database_url.config(conn_max_age=500, ssl_require=True)
+DATABASES['default'].update(db_from_env)
 
 
 # Internationalization
